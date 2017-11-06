@@ -14,9 +14,9 @@ MY_SQL_REPO=https://repo.mysql.com/yum/mysql-5.5-community/el/7/x86_64/
 MY_SQL_REPO_KEY=https://repo.mysql.com/RPM-GPG-KEY-mysql
 CLOUDERA_MANAGER_REPO=http://archive.cloudera.com/cm5/redhat/7/x86_64/cm/5.12.1/
 CLOUDERA_MANAGER_REPO_KEY=https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/RPM-GPG-KEY-cloudera
-SALT_REPO=https://repo.saltstack.com/yum/redhat/7/x86_64/archive/2015.8.11
-SALT_REPO_KEY=https://repo.saltstack.com/yum/redhat/7/x86_64/archive/2015.8.11/SALTSTACK-GPG-KEY.pub
-SALT_REPO_KEY2=http://repo.saltstack.com/yum/redhat/7/x86_64/2015.8/base/RPM-GPG-KEY-CentOS-7
+SALT_REPO=https://repo.saltstack.com/yum/redhat/7/x86_64/archive/2016.11
+SALT_REPO_KEY=https://repo.saltstack.com/yum/redhat/7/x86_64/2016.11/SALTSTACK-GPG-KEY.pub
+SALT_REPO_KEY2=https://repo.saltstack.com/yum/redhat/7/x86_64/2016.11/base/RPM-GPG-KEY-CentOS-7
 AMBARI_REPO=http://public-repo-1.hortonworks.com/ambari/centos7/2.x/updates/2.5.1.0/ambari.repo
 AMBARI_REPO_KEY=http://public-repo-1.hortonworks.com/ambari/centos7/RPM-GPG-KEY/RPM-GPG-KEY-Jenkins
 

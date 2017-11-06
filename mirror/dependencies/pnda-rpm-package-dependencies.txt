@@ -47,8 +47,8 @@ python-devel
 redhat-lsb
 redis-3.2.10-2.el7
 ruby-devel
-salt-master-2015.8.11-1.el7
-salt-minion-2015.8.11-1.el7
+salt-master-2016.11.8-1.el7
+salt-minion-2016.11.8-1.el7
 snappy-devel
 systemd-python
 unzip

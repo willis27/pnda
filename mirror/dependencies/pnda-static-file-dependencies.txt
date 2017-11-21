@@ -5,6 +5,7 @@ http://www.apache.org/dist/zookeeper/zookeeper-3.4.6/zookeeper-3.4.6.tar.gz.sha1
 http://archive.apache.org/dist/zookeeper/zookeeper-3.4.6/zookeeper-3.4.6.tar.gz
 http://archive.apache.org/dist/zookeeper/zookeeper-3.4.6/zookeeper-3.4.6.tar.gz.sha1
 http://www.mirrorservice.org/sites/ftp.apache.org/kafka/0.11.0.0/kafka_2.11-0.11.0.0.tgz
+http://archive.apache.org/dist/kafka/0.11.0.0/kafka_2.11-0.11.0.0.tgz
 https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.0.0.tar.gz
 https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.0.0.tar.gz.sha1
 https://artifacts.elastic.co/downloads/logstash/logstash-5.2.2.tar.gz
@@ -28,7 +29,13 @@ http://central.maven.org/maven2/org/kitesdk/kite-tools/1.0.0/kite-tools-1.0.0-bi
 http://central.maven.org/maven2/org/kitesdk/kite-tools/1.0.0/kite-tools-1.0.0-binary.jar.sha1
 http://apache.claz.org/incubator/livy/0.4.0-incubating/livy-0.4.0-incubating-bin.zip
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://github.com/jupyter-scala/jupyter-scala/archive/v0.4.2.tar.gz
 =======
 https://oss.sonatype.org/content/repositories/snapshots/com/github/alexarchambault/jupyter/jupyter-scala-cli_2.11.6/0.2.0-SNAPSHOT/jupyter-scala_2.11.6-0.2.0-SNAPSHOT.zip
 >>>>>>> 6a0278b8136d95e607cea24523e2c9ab10e634bc
+=======
+https://oss.sonatype.org/content/repositories/snapshots/com/github/alexarchambault/jupyter/jupyter-scala-cli_2.11.6/0.2.0-SNAPSHOT/jupyter-scala_2.11.6-0.2.0-SNAPSHOT.zip
+
+
+>>>>>>> 57067526b1388a5f444095f98a16d7d9c671b968

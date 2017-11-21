@@ -5,6 +5,8 @@ All notable changes to this project will be documented in this file.
 ### Added
 - PNDA-3304: Add script to set a non-transparent proxy for the mirror build.
 - PNDA-1960: Make Kafkat available on nodes as option for Kafka management at CLI
+- PNDA-3484: Add CentOS Support
+- PNDA-1899: Scala Spark Jupyter Integration
 
 ### Changed
 - PNDA-3216: Include Logstash 5.2.2 and updated plugin mechanism with fixed behaviour for offline installation
@@ -19,6 +21,7 @@ All notable changes to this project will be documented in this file.
 - PNDA-3356: Include zip on deb mirror for HDP installation
 - PNDA-3238: Add jupyter extensions to the kenel virtual environment.
 - PNDA-3347: fix issue on HDP utils folder structure on ubuntu14
+- upgrade OpenSSL versions
 
 ## [0.2.0] 2017-08-01
 ### Added
